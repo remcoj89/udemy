@@ -1,0 +1,74 @@
+[05-Jan-2024 11:40:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 6
+[05-Jan-2024 11:40:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 6
+[05-Jan-2024 11:40:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 6
+[05-Jan-2024 11:43:30 UTC] PHP Parse error:  syntax error, unexpected variable "$age", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 11:43:31 UTC] PHP Parse error:  syntax error, unexpected variable "$age", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 11:43:43 UTC] PHP Warning:  Array to string conversion in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 11:46:34 UTC] PHP Parse error:  syntax error, unexpected variable "$isLoggedin", expecting "(" in /home/remco/Local Sites/udemy/app/public/test.php on line 7
+[05-Jan-2024 11:46:34 UTC] PHP Parse error:  syntax error, unexpected variable "$isLoggedin", expecting "(" in /home/remco/Local Sites/udemy/app/public/test.php on line 7
+[05-Jan-2024 11:52:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/remco/Local Sites/udemy/app/public/test.php on line 8
+[05-Jan-2024 11:52:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 8
+[05-Jan-2024 11:53:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 8
+[05-Jan-2024 11:53:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 8
+[05-Jan-2024 11:53:54 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /home/remco/Local Sites/udemy/app/public/test.php on line 3
+[05-Jan-2024 11:54:03 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /home/remco/Local Sites/udemy/app/public/test.php on line 3
+[05-Jan-2024 11:54:08 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /home/remco/Local Sites/udemy/app/public/test.php on line 3
+[05-Jan-2024 11:54:09 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /home/remco/Local Sites/udemy/app/public/test.php on line 3
+[05-Jan-2024 11:54:18 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /home/remco/Local Sites/udemy/app/public/test.php on line 3
+[05-Jan-2024 11:55:56 UTC] PHP Parse error:  syntax error, unexpected variable "$name", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 4
+[05-Jan-2024 11:56:13 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/remco/Local Sites/udemy/app/public/test.php:4
+Stack trace:
+#0 /home/remco/Local Sites/udemy/app/public/test.php(7): Greeting('Remco')
+#1 {main}
+  thrown in /home/remco/Local Sites/udemy/app/public/test.php on line 4
+[05-Jan-2024 11:56:34 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/remco/Local Sites/udemy/app/public/test.php on line 4
+[05-Jan-2024 11:56:39 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/remco/Local Sites/udemy/app/public/test.php on line 4
+[05-Jan-2024 12:00:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/remco/Local Sites/udemy/app/public/test.php on line 10
+[05-Jan-2024 12:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/remco/Local Sites/udemy/app/public/test.php on line 10
+[05-Jan-2024 12:01:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 12
+[05-Jan-2024 12:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 12
+[05-Jan-2024 12:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 12
+[05-Jan-2024 12:03:27 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in /home/remco/Local Sites/udemy/app/public/test.php on line 17
+[05-Jan-2024 12:03:42 UTC] PHP Parse error:  syntax error, unexpected token "foreach" in /home/remco/Local Sites/udemy/app/public/test.php on line 17
+[05-Jan-2024 12:08:31 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 19
+[05-Jan-2024 12:08:32 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 19
+[05-Jan-2024 12:08:41 UTC] PHP Warning:  Undefined array key 3 in /home/remco/Local Sites/udemy/app/public/test.php on line 18
+[05-Jan-2024 12:09:28 UTC] PHP Warning:  Undefined array key 3 in /home/remco/Local Sites/udemy/app/public/test.php on line 18
+[05-Jan-2024 12:11:05 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type array on string in /home/remco/Local Sites/udemy/app/public/test.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/remco/Local Sites/udemy/app/public/test.php on line 22
+[05-Jan-2024 12:14:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/remco/Local Sites/udemy/app/public/test.php on line 23
+[05-Jan-2024 12:14:58 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/remco/Local Sites/udemy/app/public/test.php on line 23
+[05-Jan-2024 12:15:14 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 23
+[05-Jan-2024 12:15:15 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 23
+[05-Jan-2024 12:15:16 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/remco/Local Sites/udemy/app/public/test.php on line 23
+[05-Jan-2024 12:19:07 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 12:19:17 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 12:19:34 UTC] PHP Warning:  Undefined variable $name in /home/remco/Local Sites/udemy/app/public/test.php on line 5
+[05-Jan-2024 12:42:03 UTC] PHP Warning:  Attempt to read property "title" on null in /home/remco/Local Sites/udemy/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[05-Jan-2024 13:20:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "nl" in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php:2
+Stack trace:
+#0 /home/remco/Local Sites/udemy/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/remco/Local Sites/udemy/app/public/wp-blog-header.php(19): require_once('/home/remco/Loc...')
+#2 /home/remco/Local Sites/udemy/app/public/index.php(17): require('/home/remco/Loc...')
+#3 {main}
+  thrown in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php on line 2
+[05-Jan-2024 13:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blogindo() in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php:4
+Stack trace:
+#0 /home/remco/Local Sites/udemy/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/remco/Local Sites/udemy/app/public/wp-blog-header.php(19): require_once('/home/remco/Loc...')
+#2 /home/remco/Local Sites/udemy/app/public/index.php(17): require('/home/remco/Loc...')
+#3 {main}
+  thrown in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php on line 4
+[05-Jan-2024 13:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blogindo() in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php:4
+Stack trace:
+#0 /home/remco/Local Sites/udemy/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/remco/Local Sites/udemy/app/public/wp-blog-header.php(19): require_once('/home/remco/Loc...')
+#2 /home/remco/Local Sites/udemy/app/public/index.php(17): require('/home/remco/Loc...')
+#3 {main}
+  thrown in /home/remco/Local Sites/udemy/app/public/wp-content/themes/udemy/index.php on line 4
+[08-Jan-2024 17:10:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/remco/Local Sites/udemy/app/public/wp-includes/class-wpdb.php on line 1987
+[08-Jan-2024 17:10:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/remco/Local Sites/udemy/app/public/wp-includes/class-wpdb.php on line 1987
+[08-Jan-2024 17:10:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/remco/Local Sites/udemy/app/public/wp-includes/class-wpdb.php on line 1987
+[08-Jan-2024 17:10:20 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
